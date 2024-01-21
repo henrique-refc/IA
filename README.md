@@ -42,7 +42,6 @@ O foco é a criação de um artigo no qual a inteligência artificial é utiliza
 
     Ilustrações de capa: gerada pela lexica.art
 
-### Link do Artigo 
-    <a href="https://web.dio.me/articles/a-voz-da-tecnologia-como-a-tts-esta-moldando-a-comunicacao-moderna?back=%2Farticles&page=1&order=oldest">A Voz da Tecnologia: Como a TTS Está Moldando a Comunicação Moderna</a>
+
 
   
